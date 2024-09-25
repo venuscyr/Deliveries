@@ -1,0 +1,7 @@
+document.body.innerHTML=`
+    <h1>welcome to the javascript pool! </h1>
+    <p>have some fun and dont forget to bring a towel.</p>
+    `;
+
+
+    console.log("website launched!")
